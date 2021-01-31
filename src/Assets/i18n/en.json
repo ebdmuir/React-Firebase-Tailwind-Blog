@@ -1,0 +1,129 @@
+{
+  "Language": {
+    "lang-hk": "正體中文(香港)",
+    "lang-en": "English"
+  },
+  "HomePage": {
+    "shortname": "PWA Development | childnoder.com",
+    "pwa": "PWA Development",
+    "title": "One price can create three platforms applications | Create PWA Web | childnoder.com ",
+    "description": "As low as HK$3,000 and you can launch your app on Google Play or Apple Store as soon as one week,Website written in PWA technology will reduce development and maintenance costs and increase your website's traffic.",
+    "keywords": "PWA, webpage production, progressive web application, cross-platform, PWA development"
+  },
+  "Heading": {
+    "quotation": "Get Quotation for free",
+    "web-development": "Web Development",
+    "web-development-des": "The technology we use can increase web engagement rates and return visits",
+    "android-app-development": "Android Application Development",
+    "android-app-development-des": "Not only the development cycle is shorter than other providers, but also the price is cheaper.",
+    "ios-app-development": "IOS Application Development",
+    "ios-app-development-des": "Not only the development cycle is shorter than other providers, but also the price is cheaper.",
+    "design": "Prototype Design",
+    "design-des": "Complete the design according to your requirements and provide more free changes.",
+    "solutions": "Solutions",
+    "logout": "Logout",
+    "new-article": "New Article",
+    "list-article": "List Article"
+  },
+  "Feature": {
+    "common": "Common",
+    "title": "Let us build your progressive web application (PWA) for you",
+    "description": "One price can create three platforms applications",
+    "description-2": "As low as HK$3,000 and you can launch your app on Google Play or Apple Store as soon as one week",
+    "learn-more": "Learn More",
+    "dt-1-t": "Google recommended PWA technology",
+    "dt-1-d": "Website written in PWA technology will receive higher search engine optimization (SEO) scores and increase your website's traffic.",
+    "dt-2-t": "Using PWA technology can effectively increase conversions",
+    "dt-2-d": "According to Twitter, they used PWA and increase 65% of web page views and 75% of Tweets sent than before.",
+    "dt-3-t": "Is it different from native apps?",
+    "dt-3-d": "PWA provides push information, offline operation and a variety of mobile phone native functions. In the majority of uses, there is not much difference between these two.",
+    "dt-4-t": "Is PWA popular now?",
+    "dt-4-d": "Now technology companies such as Amazon, Uber, Twitter, and Google no longer use traditional technology to write web pages, and many companies have used PWA to reduce development and maintenance costs."
+  },
+  "Customer": {
+    "access": "Go to website",
+    "e-1-t": "Clipversity - Knowledge Sharing Platform",
+    "e-1-d": "PWA technology enables browser to notify users of the latest updates through Cloud Messaging.",
+    "e-2-t": "MeWeSearcher",
+    "e-2-d": "Making a WebApp in one week and launch the Android version on the Google Play. Never thought it could be so fast.",
+    "e-3-t": "Socialimagers",
+    "e-3-d": "Customers can create their image through the installed PWA even if they are offline.",
+    "clipversity": "knowledge sharing platform",
+    "mewesearcher": "search hong kong, taiwan mewe page and group",
+    "socialimagers": "AI generate social media image to you"
+  },
+  "Call4Action": {
+    "title": "Freely choose your needs",
+    "description": "Customize the website, third-party payment, email service, dashboard, search engine optimization and other features according to your needs",
+    "call4Action": "Get free online quotation"
+  },
+  "Pricing": {
+    "w-1-t": "Basic",
+    "w-1-d": "Includes 12 months of website hosting + maintenance,installable PWA and back-end dashboard (basic)",
+    "w-2-t": "Domain Registration",
+    "w-2-d": "registration / renew your own domain (1 year)",
+    "w-3-t": "Blog",
+    "w-3-d": "You can write articles related to your business, share article and comments",
+    "w-4-t": "Browser push notification",
+    "w-4-d": "The notification can be set in the backend to let people who browse the website receive the latest updates",
+    "w-5-t": "Advanced data analysis dashboard",
+    "w-5-d": "You will have a beter understanding how user interact in your website by custom tracking events.",
+    "w-6-t": "Search engine optimization(SEO)",
+    "w-6-d": "Structured data, Prerender technology and AMP technology (if applicable)",
+    "w-7-t": "Subscription Payment Gateway",
+    "w-7-d": "Let your users subscribe to your content, we use Stripe as the website payment gateway",
+    "w-8-t": "Email System",
+    "w-8-d": "Includes 5 email templates and customizable conditions for sending emails",
+    "w-9-t": "Web design (1 page)",
+    "w-9-d": "Design the website according to your requirements",
+    "a-1-t": "Basic (Android)",
+    "a-1-d": "Includes 12 months of maintenance",
+    "i-1-t": "Basic (IOS)",
+    "i-1-d": "Includes 12 months of maintenance"
+  },
+  "MyCart": {
+    "remove": "Remove",
+    "total": "Total (estimated)"
+  },
+  "Quotation": {
+    "predict-price": "Estimated Price",
+    "predict-price-des": "This is an estimated price. You can add your project requirements and details below, and you will get your quotation.",
+    "contact-info": "Contact information",
+    "contact-info-des": "This information will only be used for contact purposes",
+    "name": "Name",
+    "fill-name": "Fill your name here",
+    "email": "Email",
+    "fill-email": "Please ensure your email is valid",
+    "phone": "Phone",
+    "detail": "Project Detail",
+    "supporting-doc": "Supporting Document",
+    "submit": "Submit"
+  },
+  "Blog": {
+    "blog": "Blog",
+    "title": "Blog | Learn about the latest PWA development and functions | childnoder.com",
+    "description": "2021 is an important milestone in the development of WebApp. PWA will greatly reduce the time of developers. They only need to deal with the interface and functions of the web page, and there is no need to make different platform versions.",
+    "keywords": "Blog, PWA development, PWA feature, WebApp development, learn web programming, clipversity",
+    "learn-new-trend": "Technology Trending",
+    "get-start-now": "Childnoder X Clipversity | Become Web Developer",
+    "get-start-now-des": "There is not much things difficult until you have the ❤. Your website may not have to develop by us. if you have time, you can do it \uD83D\uDE3C. ",
+    "learn-more": "Learn More",
+    "our-article": "Our Article",
+    "view-all": "View All",
+    "share": "Share",
+    "new-article": "New Article"
+  },
+  "NewArticle": {
+    "new-article": "New Article",
+    "is-published": "Is Published",
+    "save": "Save",
+    "is-submitting": "is Submitting"
+  },
+  "ListArticle": {
+    "list-article": "List Article",
+    "article-remove": "Article Remove",
+    "article-remove-des": "Are you sure you want to remove this article?",
+    "confirm": "CONFIRM REMOVE",
+    "cancel": "Cancel"
+  }
+}

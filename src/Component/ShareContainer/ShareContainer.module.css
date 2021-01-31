@@ -1,0 +1,33 @@
+.ShareLabel {
+    margin: 5px;
+    color: #212529;
+    font-size: 14px;
+}
+
+.ShareContainer > button {
+    margin: 2px;
+}
+
+.Extend {
+    background-color: #e8e8e8;
+    border-radius: 30px;
+    width: 30px;
+    height: 30px;
+    border: none;
+    animation: fade 250ms;
+}
+
+.Extend:hover{
+    background-color: #b9b9b9;
+}
+
+@keyframes fade {
+    0% {
+        transform: scale(0.8);
+        opacity: 80%;
+    }
+    100% {
+        transform: scale(0.1);
+        opacity: 100%;
+    }
+}

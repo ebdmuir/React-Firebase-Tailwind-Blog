@@ -1,0 +1,132 @@
+{
+  "Language": {
+    "lang-hk": "正體中文(香港)",
+    "lang-en": "English"
+  },
+  "HomePage": {
+    "shortname": "PWA網頁製作 | childnoder.com",
+    "pwa": "PWA製作",
+    "title": "一份價錢即可建立三個平台的應用程式及網頁 | PWA網頁製作 | childnoder.com ",
+    "description": "低至港幣3000即可同時製作網頁及Android/IOS 應用程式，我們採用Google推薦的漸進式網絡應用程式 (PWA)技術開發，它不但製作的時間比其他提供者短，而且價錢更便宜。",
+    "keywords": "PWA,網頁製作,漸進式網絡應用程式,跨平台,開發PWA"
+  },
+  "Heading": {
+    "quotation": "免費報價",
+    "web-development": "網頁製作",
+    "web-development-des": "我們使用的技術能夠提升網頁的觸及人數及回訪率。",
+    "android-app-development": "Android 應用程式製作",
+    "android-app-development-des": "不但製作的時間比其他提供者短，而且價錢更便宜。",
+    "ios-app-development": "IOS 應用程式製作",
+    "ios-app-development-des": "不但製作的時間比其他提供者短，而且價錢更便宜。",
+    "design": "原型設計",
+    "design-des": "按你的要求完成設計，提供更多免費改動的機會。",
+    "solutions": "解決方案",
+    "logout": "登出",
+    "new-article": "新增文章",
+    "list-article": "文章列表"
+  },
+  "Feature": {
+    "common": "常見問題",
+    "title": "讓我們為你建立你的漸進式網絡應用程式(PWA)",
+    "description": "一份價錢即可建立三個平台的應用程式",
+    "description-2": "低至港幣3,000 及最快一個星期便可將你的應用程式上架至Google Play或Apple Store",
+    "learn-more": "了解更多",
+    "dt-1-t": "Google推薦的PWA技術",
+    "dt-1-d": "使用PWA技術寫成的網頁將會擁有搜尋引擎最佳化(SEO)分數乘加，增加你的網站自然流量。",
+    "dt-2-t": "使用PWA技術能有效增加轉化(conversions)",
+    "dt-2-d": "Twitter的數據，他們使用了PWA後比之前增加了65%的網頁瀏覽量及75%的Tweets發送。",
+    "dt-3-t": "PWA與原生的應用程式有分別嗎？",
+    "dt-3-d": "PWA提供推送信息，離線運作及多種手機原生功能。在絕大多數的用途下，兩者並沒有太大的分別。",
+    "dt-4-t": "現時PWA流行嗎？",
+    "dt-4-d": "現在亞馬遜、Uber、Twitter及Google等大型科技公司已經不再用傳統的技術編寫網頁，而且已經有不少公司使用PWA以降低開發及維護成本。"
+  },
+  "Customer": {
+    "access": "進入網站",
+    "e-1-t": "Clipversity 民間知識交換平台",
+    "e-1-d": "PWA技術令網頁都可以透過Cloud Messaging 通知用戶最新的更新。",
+    "e-2-t": "MeWeSearcher",
+    "e-2-d": "一星期便可以製作好WebApp，並將Android版本上架。沒想過可以這樣快。",
+    "e-3-t": "Socialimagers",
+    "e-3-d": "顧客即使離線依然可以透過安裝了的PWA編輯他們的圖片。",
+    "clipversity": "民間 知識交換平台",
+    "mewesearcher": "找尋港台的MeWe Group及Page",
+    "socialimagers": "AI會為你生成分享圖片"
+  },
+  "Call4Action": {
+    "title": "自由選擇你的需要",
+    "description": "按你們的需要客製網站、第三方支付、電郵服務、數據後台、搜尋引擎最佳化等功能",
+    "call4Action": "免費取得網上報價"
+  },
+  "Pricing": {
+    "w-1-t": "基本功能",
+    "w-1-d": "包含12個月網站託管+維護、可安裝PWA、後端儀表板（基本）及四頁網頁設計",
+    "w-2-t": "域名註冊",
+    "w-2-d": "註冊或續訂一年你的域名",
+    "w-3-t": "網誌功能",
+    "w-3-d": "在後台可以編寫與你業務相關的文章，分享文章功能，留言功能",
+    "w-4-t": "電腦推送通知",
+    "w-4-d": "在後台可以設定推送的信息讓瀏覽網站的人收到最新更新",
+    "w-5-t": "進階數據分析",
+    "w-5-d": "你在後台了解用戶的使用情況，自定追踪事件可更了解用戶的行為。",
+    "w-6-t": "搜尋引擎最佳化（SEO）",
+    "w-6-d": "結構化資料，Prerender技術及AMP技術（如適用）",
+    "w-7-t": "內容訂閱系統",
+    "w-7-d": "讓你的用戶訂閱你的內容，使用Stripe作為網站支付系統",
+    "w-8-t": "Email系統",
+    "w-8-d": "包含5個Email範本及可自定發送Email的條件",
+    "w-9-t": "更多的網頁設計（1頁）",
+    "w-9-d": "按你的要求設計網頁",
+    "a-1-t": "基本功能 (Android)",
+    "a-1-d": "包含12個月維護",
+    "i-1-t": "基本功能 (IOS)",
+    "i-1-d": "包含12個月維護"
+  },
+  "MyCart": {
+    "remove": "刪除該項目",
+    "total": "估計價格: "
+  },
+  "Quotation": {
+    "title": "取得網站免費報價 | 製作Google推薦的漸進式網絡應用程式 | childnoder.com ",
+    "description": "低至港幣3000即可同時製作網頁及Android/IOS 應用程式，我們採用Google推薦的漸進式網絡應用程式 (PWA)技術開發，它不但製作的時間比其他提供者短，而且價錢更便宜。",
+    "keywords": "網站免費報價,web報價,PWA,網頁製作,漸進式網絡應用程式,跨平台,開發PWA",
+    "predict-price": "估計價格",
+    "predict-price-des": "此為估計價格，你可在下方加入你的專案要求及詳細內容，你將會取得你的報價。",
+    "contact-info": "聯絡資料",
+    "contact-info-des": "這些資料只會用作聯絡用途",
+    "name": "姓名",
+    "fill-name": "在此填上你的姓名",
+    "email": "電子郵件",
+    "fill-email": "請確保電子郵件有效",
+    "phone": "聯絡電話",
+    "detail": "專案要求及詳細內容",
+    "supporting-doc":"附件",
+    "submit": "發送"
+  },
+  "Blog": {
+    "blog": "網誌",
+    "title": "網誌 | 了解最新的PWA發展及功能 | childnoder.com",
+    "description": "2021年是WebApp發展的重要里程碑，PWA將會大大減少開發人員的時間，他們只需要處理網頁的介面及功能便可，不需要製作不同台平的版本。",
+    "keywords": "網誌,PWA發展,PWA功能,WebApp發展,自學程式,clipversity",
+    "learn-new-trend": "科技新發展",
+    "get-start-now": "Childnoder X Clipversity | 自學寫網頁",
+    "get-start-now-des": "從沒有困難的事，只在乎你有沒有❤。你不一定要找我們為你編寫網站，如有時間，你都可以做得到😼。",
+    "learn-more": "了解更多",
+    "our-article": "我們的文章",
+    "view-all": "更多文章",
+    "share": "分享",
+    "new-article": "新增文章"
+  },
+  "NewArticle": {
+    "new-article": "新增文章",
+    "is-published": "已出版",
+    "save": "儲存",
+    "is-submitting": "儲存中"
+  },
+  "ListArticle": {
+    "list-article": "文章列表",
+    "article-remove": "刪除文章",
+    "article-remove-des": "您確定要刪除此文章嗎？",
+    "confirm": "確定刪除",
+    "cancel": "取消"
+  }
+}
